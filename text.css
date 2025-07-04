@@ -1,4 +1,6 @@
 div{ border: solid red;
     padding: 10px;
-
+background-color: aqua;
+width: 50%;
 }
+img{ width: 100px;}
